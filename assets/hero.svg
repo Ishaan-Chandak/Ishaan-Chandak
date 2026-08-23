@@ -87,6 +87,48 @@
       <rect x="772" y="207" width="201" height="7" rx="4" fill="url(#gold)"/>
     </g>
 
+    <!-- floating loadout modules fill the lower command deck -->
+    <g font-family="Consolas,monospace">
+      <g class="float">
+        <path d="M95 319l95-47 96 48-96 48z" fill="#0A202D" stroke="#35D0BA" stroke-opacity=".7"/>
+        <path d="M95 319v27l95 49v-27z" fill="#07131F" stroke="#1B5361"/>
+        <path d="M286 320v27l-96 48v-27z" fill="#0B2833" stroke="#24796F"/>
+        <text x="190" y="319" text-anchor="middle" fill="#35D0BA" font-size="11" letter-spacing="2">SYSTEMS BAY</text>
+        <text x="145" y="350" text-anchor="middle" fill="#C9D7E5" font-size="10" transform="rotate(27 145 350)">GO · SQL</text>
+        <text x="239" y="349" text-anchor="middle" fill="#F7C948" font-size="10" transform="rotate(-27 239 349)">DOCKER</text>
+      </g>
+      <g class="float" style="animation-delay:-1.4s">
+        <path d="M914 319l95-47 96 48-96 48z" fill="#0A202D" stroke="#F7C948" stroke-opacity=".65"/>
+        <path d="M914 319v27l95 49v-27z" fill="#07131F" stroke="#1B5361"/>
+        <path d="M1105 320v27l-96 48v-27z" fill="#0B2833" stroke="#24796F"/>
+        <text x="1009" y="319" text-anchor="middle" fill="#F7C948" font-size="11" letter-spacing="2">MODEL FORGE</text>
+        <text x="963" y="350" text-anchor="middle" fill="#C9D7E5" font-size="10" transform="rotate(27 963 350)">PYTHON</text>
+        <text x="1057" y="349" text-anchor="middle" fill="#69F0CF" font-size="10" transform="rotate(-27 1057 349)">PYTORCH</text>
+      </g>
+
+      <!-- skill satellites -->
+      <g fill="#081725" stroke="#35D0BA" stroke-opacity=".55">
+        <path d="M312 335l51-25 51 25-51 25z"/><path d="M786 335l51-25 51 25-51 25z"/>
+        <path d="M254 407l43-21 43 21-43 21z"/><path d="M860 407l43-21 43 21-43 21z"/>
+      </g>
+      <g text-anchor="middle" font-size="10" font-weight="700">
+        <text x="363" y="339" fill="#69F0CF">AWS</text><text x="837" y="339" fill="#F7C948">REACT</text>
+        <text x="297" y="411" fill="#C9D7E5">C++</text><text x="903" y="411" fill="#C9D7E5">NUMPY</text>
+      </g>
+      <g fill="none" stroke="#35D0BA" stroke-opacity=".32" stroke-dasharray="3 7" class="dash">
+        <path d="M286 320l26 15M414 335l95-36M691 299l95 36M888 335l26-15M340 407l169-73M691 334l169 73"/>
+      </g>
+
+      <!-- telemetry rails -->
+      <g font-size="9" fill="#73849A">
+        <text x="117" y="432">NODE 01 // STABLE</text><text x="1083" y="432" text-anchor="end">NODE 08 // STABLE</text>
+      </g>
+      <g fill="#35D0BA">
+        <circle cx="113" cy="443" r="2" class="blink"/><circle cx="128" cy="443" r="2"/><circle cx="143" cy="443" r="2" opacity=".4"/>
+        <circle cx="1087" cy="443" r="2" class="blink"/><circle cx="1072" cy="443" r="2"/><circle cx="1057" cy="443" r="2" opacity=".4"/>
+      </g>
+    </g>
+
     <!-- particles and telemetry -->
     <g fill="#69F0CF" filter="url(#glow)"><circle cx="473" cy="115" r="3" class="p1"/><circle cx="717" cy="352" r="3" class="p2"/><circle cx="514" cy="405" r="2" class="p3"/><circle cx="699" cy="121" r="2" class="p2"/></g>
     <g font-family="Consolas,monospace" font-size="11" fill="#73849A">
