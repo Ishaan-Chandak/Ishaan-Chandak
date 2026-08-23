@@ -93,13 +93,9 @@ Designed an end-to-end multi-task vision pipeline and fused depth with geometric
 
 <div align="center">
 
-<img src="./assets/music-terminal.svg" width="100%" alt="Battle soundtrack terminal waiting for Spotify connection" />
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=scg9tufh3xukyw7w5uwu0xm8y)](https://open.spotify.com/)
 
-<!-- SPOTIFY-RECENTLY-PLAYED: Replace the terminal above with the Spotify widget after pairing. -->
-
-[![Connect Spotify](https://img.shields.io/badge/SPOTIFY-PAIR_LISTENING_HISTORY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-recently-played-readme.vercel.app/)
-
-<sub>Pair Spotify once, then the five latest tracks become a live quest soundtrack.</sub>
+<sub>LIVE FEED · The latest tracks in my quest soundtrack</sub>
 
 </div>
 
@@ -113,4 +109,3 @@ Designed an end-to-end multi-task vision pipeline and fused depth with geometric
 <sub>Open to conversations about software engineering, AI/ML, and systems that remove repetitive work.</sub>
 
 </div>
-
