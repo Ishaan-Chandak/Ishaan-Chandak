@@ -13,7 +13,7 @@
   <img src="./assets/boss-arena.svg?v=2" width="100%" alt="Boss battle: Multi-Task Mango Attribute Detection" />
 </a>
 
-<img src="./assets/equipment-vault.svg?v=2" width="100%" alt="Technology constellation" />
+<img src="./assets/equipment-vault.svg?v=3" width="100%" alt="Technology logo constellation" />
 
 ## `> ACTIVITY_DUNGEON` 🐍
 
