@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=3d-command-deck-5" width="100%" alt="Ishaan Chandak - animated 3D player command deck" />
+<img src="./assets/hero.svg?v=command-deck-6" width="100%" alt="Ishaan Chandak - software engineer command deck" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-35D0BA?style=for-the-badge&logo=linkedin&logoColor=08111F)](https://www.linkedin.com/in/ishaan-chandak-558b0822b/)
-[![Email](https://img.shields.io/badge/Email-Send_a_scroll-F7C948?style=for-the-badge&logo=gmail&logoColor=08111F)](mailto:ishaanchandak3@gmail.com)
+<sub><a href="https://www.linkedin.com/in/ishaan-chandak-558b0822b/">LINKEDIN // CONNECT</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:ishaanchandak3@gmail.com">EMAIL // SEND MESSAGE</a></sub>
 
 </div>
 
@@ -56,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/battle-soundtrack.svg" width="100%" alt="Loot Radio - Ishaan's latest quest soundtrack" />
+<img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/battle-soundtrack.svg?v=radio-console-2" width="100%" alt="Loot Radio - Ishaan's live quest broadcast" />
 
 <sub>LIVE QUEST BROADCAST · Tune a station to open it on Spotify</sub>
 
@@ -66,6 +65,6 @@
 
 <div align="center">
 
-<img src="./assets/player-telemetry.svg?v=1" width="100%" alt="Player telemetry" />
+<img src="./assets/player-telemetry.svg?v=2-balanced" width="100%" alt="Player telemetry" />
 
 </div>
