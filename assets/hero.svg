@@ -40,8 +40,8 @@
     </g>
     <g transform="translate(0 174)">
       <rect width="366" height="42" rx="8" fill="#0d1c2d" stroke="#23445a"/>
-      <text x="16" y="27" fill="#73849a" font-size="14">GUILD</text>
-      <text x="350" y="27" text-anchor="end" fill="#f7c948" font-size="15">GOLDMAN SACHS</text>
+      <text x="16" y="27" fill="#73849a" font-size="14">CURRENT QUEST</text>
+      <text x="350" y="27" text-anchor="end" fill="#f7c948" font-size="15">STELLA</text>
     </g>
   </g>
 

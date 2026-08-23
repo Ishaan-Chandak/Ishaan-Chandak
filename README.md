@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-35D0BA?style=for-the-badge&logo=linkedin&logoColor=08111F)](https://www.linkedin.com/in/ishaan-chandak-558b0822b/)
 [![Email](https://img.shields.io/badge/Email-Send_a_scroll-F7C948?style=for-the-badge&logo=gmail&logoColor=08111F)](mailto:ishaanchandak3@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Character_sheet-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](./Resume.pdf)
 
 </div>
 
@@ -13,88 +12,41 @@
 ```yaml
 name: Ishaan Vinay Chandak
 class: Software Engineer
-guild: Goldman Sachs
 base: Mumbai, India
 education: B.Tech in Information Technology @ VJTI · 9.00/10
-main_quest: Build scalable systems and advance into AI/ML + quantitative development
+main_quest: Build scalable systems and advance deeper into AI/ML
 play_style: End-to-end ownership · practical engineering · measurable impact
 ```
 
-## `> CURRENT_QUEST` 🟢
+## `> CURRENT_QUEST: STELLA` 🟢
 
-<!-- CURRENT-QUEST: Edit the three lines below whenever your focus changes. -->
+<!-- CURRENT-QUEST: Edit this block whenever your focus changes. -->
 
-> **Building:** enterprise workflow automation and hybrid AWS data pipelines  
-> **Learning:** advanced algorithm design, data modeling, and ML architectures  
-> **Next checkpoint:** reliable, secure systems that turn complex workflows into simple experiences
+<div align="center">
 
-## `> CAMPAIGN_LOG`
+### ✦ STELLA ✦
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`STATUS: IN DEVELOPMENT` · `MISSION CLASS: SECRET` · `XP: LOADING...`
 
-### ⚙️ Enterprise Systems Arc
+> Building Stella. More quest intel will be revealed as checkpoints are cleared.
 
-**Analyst · Goldman Sachs** `2025 → NOW`
+![Quest Progress](https://img.shields.io/badge/QUEST_PROGRESS-██████░░░░-35D0BA?style=for-the-badge&labelColor=08111F)
 
-- Building scalable Java/Quarkus microservices
-- Orchestrating 15+ datasets through AWS
-- Applying Presidio, IAM, and KMS for zero-PII pipelines
-- Solving production issues across four teams
+</div>
 
-</td>
-<td width="50%" valign="top">
+## `> BOSS_BATTLE`
 
-### 🏹 Automation Speedrun
-
-**Summer Analyst · Goldman Sachs** `2024`
-
-- Shipped a production reporting pipeline in Go
-- Eliminated **100%** of weekly manual reporting
-- Cut operational overhead by **40%**
-- Added CI/CD, logging, testing, and fault tolerance
-
-</td>
-</tr>
-</table>
-
-## `> BOSS_BATTLES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🥭 Mango Attribute Detection
+### 🥭 Multi-Task Mango Attribute Detection
 
 **Boss:** perspective ambiguity in agricultural quality assessment  
 **Party role:** Team Lead  
 **Loadout:** Faster R-CNN · ResNet-50 FPN · MiDaS · PyTorch · XGBoost
 
-Designed the end-to-end multi-task vision pipeline and fused depth with geometric features from **972 annotated instances**.
+Designed an end-to-end multi-task vision pipeline and fused depth with geometric features from **972 annotated instances**.
 
-**Reward unlocked:** `+13.37% classification accuracy`
+**Loot acquired:** `+13.37% classification accuracy`
 
 [Enter repository →](https://github.com/Dishie2498/Multitask-Learning-of-Fruit-Attributes)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 DermAI
-
-**Boss:** noisy, limited clinical image data  
-**Party role:** ML Engineer  
-**Loadout:** CNNs · OpenCV · PyTorch · TensorFlow/Keras
-
-Built preprocessing, augmentation, and evaluation workflows for preliminary dermatological disease classification.
-
-**Reward unlocked:** `real-world medical CV experience`
-
-[Enter repository →](https://github.com/Ruchapatil03/DermAI)
-
-</td>
-</tr>
-</table>
 
 ## `> INVENTORY`
 
@@ -121,13 +73,35 @@ Built preprocessing, augmentation, and evaluation workflows for preliminary derm
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## `> ACHIEVEMENTS_UNLOCKED`
+## `> ACTIVITY_DUNGEON` 🐍
 
-- 🏆 **AIR 9** — Codex Competitive Programming Contest, IIIT Sri City
-- ⚡ **99.83 percentile / State Rank 100** — MHT-CET among 400,000+ candidates
-- 🎪 **20,000-player event** — Execution Head for Pratibimb, coordinating 30+ events
-- 🧭 **800+ learners reached** — workshops and bootcamps with Community of Coders, VJTI
-- 🤝 **10+ juniors mentored** — data structures, algorithms, and problem solving
+<div align="center">
+
+<sub>Every green tile is XP. The snake hunts fresh commits every day.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating Ishaan's GitHub contributions" src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ishaan-Chandak&style=for-the-badge&color=35D0BA&label=PLAYERS+ENCOUNTERED)
+
+</div>
+
+## `> BATTLE_SOUNDTRACK` 🎧
+
+<div align="center">
+
+<img src="./assets/music-terminal.svg" width="100%" alt="Battle soundtrack terminal waiting for Spotify connection" />
+
+<!-- SPOTIFY-RECENTLY-PLAYED: Replace the terminal above with the Spotify widget after pairing. -->
+
+[![Connect Spotify](https://img.shields.io/badge/SPOTIFY-PAIR_LISTENING_HISTORY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-recently-played-readme.vercel.app/)
+
+<sub>Pair Spotify once, then the five latest tracks become a live quest soundtrack.</sub>
+
+</div>
 
 ## `> PLAYER_STATS`
 
