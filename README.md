@@ -89,13 +89,13 @@ Designed an end-to-end multi-task vision pipeline and fused depth with geometric
 
 </div>
 
-## `> BATTLE_SOUNDTRACK` 🎧
+## `> LOOT_RADIO` 🎧
 
 <div align="center">
 
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=scg9tufh3xukyw7w5uwu0xm8y)](https://open.spotify.com/)
+<img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/battle-soundtrack.svg" width="100%" alt="Loot Radio - Ishaan's latest quest soundtrack" />
 
-<sub>LIVE FEED · The latest tracks in my quest soundtrack</sub>
+<sub>LIVE LOADOUT · Click a track to open it</sub>
 
 </div>
 
