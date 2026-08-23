@@ -96,7 +96,7 @@
     </g>
     <g fill="#35D0BA" filter="url(#glow)"><circle cx="220" cy="371" r="5" class="blink"/><circle cx="980" cy="371" r="5" class="blink"/></g>
     <g font-family="Consolas,monospace" text-anchor="middle">
-      <text x="980" y="355" fill="#F7C948" font-size="13" font-weight="900">★★★</text>
+      <text x="980" y="356" fill="#F7C948" font-size="13" font-weight="900">&lt;/&gt;</text>
       <text x="980" y="397" fill="#73849A" font-size="9" letter-spacing="2">ARENA PORTAL</text>
     </g>
 

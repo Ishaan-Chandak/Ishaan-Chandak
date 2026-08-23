@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=3d-command-deck-4" width="100%" alt="Ishaan Chandak - animated 3D player command deck" />
+<img src="./assets/hero.svg?v=3d-command-deck-5" width="100%" alt="Ishaan Chandak - animated 3D player command deck" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-35D0BA?style=for-the-badge&logo=linkedin&logoColor=08111F)](https://www.linkedin.com/in/ishaan-chandak-558b0822b/)
 [![Email](https://img.shields.io/badge/Email-Send_a_scroll-F7C948?style=for-the-badge&logo=gmail&logoColor=08111F)](mailto:ishaanchandak3@gmail.com)
@@ -23,7 +23,7 @@
 <a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="./assets/arena-leetcode.svg?v=1" width="100%" alt="LeetCode: 471 problems solved" /></a>
 </td>
 <td width="50%">
-<a href="https://www.codechef.com/users/ishaanchandak3"><img src="./assets/arena-codechef.svg?v=1" width="100%" alt="CodeChef: 3 star, rating 1656" /></a>
+<a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="./assets/arena-topics.svg?v=1" width="100%" alt="LeetCode topic-wise solved distribution" /></a>
 </td>
 </tr>
 </table>
