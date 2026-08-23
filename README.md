@@ -7,14 +7,19 @@
 
 </div>
 
+<!-- Stella quest console hidden.
 <img src="./assets/quest-console.svg?v=2" width="100%" alt="Current quest: Stella" />
+-->
 
+<!-- Mango project card hidden.
 <a href="https://github.com/Dishie2498/Multitask-Learning-of-Fruit-Attributes">
   <img src="./assets/boss-arena.svg?v=3" width="100%" alt="Boss battle: Multi-Task Mango Attribute Detection" />
 </a>
+-->
 
 <img src="./assets/equipment-vault.svg?v=3" width="100%" alt="Technology logo constellation" />
 
+<!-- Challenge Arena hidden.
 ## `> CHALLENGE_ARENA` ⚔️
 
 <table>
@@ -29,6 +34,7 @@
 </table>
 
 <a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/arena-recent.svg" width="100%" alt="Recently accepted LeetCode problems" /></a>
+-->
 
 ## `> ACTIVITY_DUNGEON` 🐍
 
@@ -52,7 +58,7 @@
 
 <img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/battle-soundtrack.svg" width="100%" alt="Loot Radio - Ishaan's latest quest soundtrack" />
 
-<sub>LIVE LOADOUT · Click a track to open it</sub>
+<sub>LIVE QUEST BROADCAST · Tune a station to open it on Spotify</sub>
 
 </div>
 
