@@ -30,6 +30,9 @@ jobs:
       - name: Generate Loot Radio
         run: python scripts/generate_battle_soundtrack.py --output dist/battle-soundtrack.svg
 
+      - name: Generate Challenge Arena
+        run: python scripts/generate_leetcode_arena.py --output dist
+
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

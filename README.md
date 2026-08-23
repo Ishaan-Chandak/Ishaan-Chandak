@@ -10,7 +10,7 @@
 <img src="./assets/quest-console.svg?v=2" width="100%" alt="Current quest: Stella" />
 
 <a href="https://github.com/Dishie2498/Multitask-Learning-of-Fruit-Attributes">
-  <img src="./assets/boss-arena.svg?v=2" width="100%" alt="Boss battle: Multi-Task Mango Attribute Detection" />
+  <img src="./assets/boss-arena.svg?v=3" width="100%" alt="Boss battle: Multi-Task Mango Attribute Detection" />
 </a>
 
 <img src="./assets/equipment-vault.svg?v=3" width="100%" alt="Technology logo constellation" />
@@ -20,13 +20,15 @@
 <table>
 <tr>
 <td width="50%">
-<a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="./assets/arena-leetcode.svg?v=1" width="100%" alt="LeetCode: 471 problems solved" /></a>
+<a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/arena-leetcode.svg" width="100%" alt="Live LeetCode solved statistics" /></a>
 </td>
 <td width="50%">
-<a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="./assets/arena-topics.svg?v=1" width="100%" alt="LeetCode topic-wise solved distribution" /></a>
+<a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/arena-topics.svg" width="100%" alt="Live LeetCode topic-wise solved distribution" /></a>
 </td>
 </tr>
 </table>
+
+<a href="https://leetcode.com/u/Ishaan_Chandak/"><img src="https://raw.githubusercontent.com/Ishaan-Chandak/Ishaan-Chandak/output/arena-recent.svg" width="100%" alt="Recently accepted LeetCode problems" /></a>
 
 ## `> ACTIVITY_DUNGEON` 🐍
 
