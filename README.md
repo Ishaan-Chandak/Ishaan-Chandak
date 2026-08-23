@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Ishaan Chandak - Software Engineer player card" />
+<img src="./assets/hero.svg?v=3d-command-deck-1" width="100%" alt="Ishaan Chandak - animated 3D player command deck" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-35D0BA?style=for-the-badge&logo=linkedin&logoColor=08111F)](https://www.linkedin.com/in/ishaan-chandak-558b0822b/)
 [![Email](https://img.shields.io/badge/Email-Send_a_scroll-F7C948?style=for-the-badge&logo=gmail&logoColor=08111F)](mailto:ishaanchandak3@gmail.com)
